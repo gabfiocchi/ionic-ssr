@@ -1,5 +1,5 @@
 {
-  "name": "devdacticSsr",
+  "name": "ionicSsr",
   "integrations": {
     "capacitor": {}
   },
